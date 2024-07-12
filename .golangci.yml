@@ -5,8 +5,7 @@ run:
     - state/runtime/fakevm
     - state/runtime/instrumentation
     - test
-    - ci
-    
+    - ci    
 linters:
   enable:
   - whitespace
